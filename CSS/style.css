@@ -1,0 +1,15 @@
+body{
+    font-family: 隶书;
+}
+#bigTitle{ /*大标题*/
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 50px;
+    text-align: center;
+}
+.content{ /*内容*/
+    text-align: center;
+}
+.image{ /*图片*/
+    max-width: 200px;
+}
